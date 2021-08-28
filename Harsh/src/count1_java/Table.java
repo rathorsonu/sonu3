@@ -13,7 +13,7 @@ public class Table {
 			
 			int m;
 			m=n*i;
-			System.out.println(""+m);
+			System.out.println(i +" * "+ n +" = "+ m);
 			
 		}
 		pp.close();
